@@ -30,7 +30,7 @@ Please avoid the use of xml to json libraries/tools such as xmltodict, objectify
 
 First at all I want to thank **Austin Software, Camila Carrique and Pia Borras** for the opportunity.
 
-This exercise one of my first times working with XML, I had only worked with csv, excel and JSON files. However I think I found a good workoround for the solution.
+This exercise was one of my first times working with XML, I had only worked with csv, excel and JSON files. However I think I found a good workoround for the solution.
 
 Here is a step by step of how I decided to solve the problem.
 
