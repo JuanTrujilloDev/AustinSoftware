@@ -93,10 +93,128 @@ def parseXML(tree):
             
             
     
-    # If it is seatmap2.xml we can extract without using ns
+    # If it is seatmap2.xml we can extract it
     else:
         # TODO extract seatmap2.xml attributes and parse it into JSON file.
-        print("Is filename 2")
+        root = tree.getroot()
+        ns = "{http://www.iata.org/IATA/EDIST/2017.2}"
+        
+        # Flight dict will ve transformed into json.
+        flight = {}
+        flight_data =  {}
+        data_lists = root.find(ns + "DataLists")
+        flight_segment_list = data_lists.find(ns + "FlightSegmentList")
+        flight_segment = flight_segment_list.find(ns + "FlightSegment")
+        
+        # Extracting flight data
+        for child in flight_segment:
+            flight_data[child.tag[len(ns):]] = {}
+            for element in child:
+                flight_data[child.tag[len(ns):]][element.tag[len(ns):]] = element.text
+        
+        flight["flight_data"] = flight_data
+        
+        
+        # Seat definition data.
+        seat_definition = {}
+        
+        seat_definition_list = data_lists.find(ns + "SeatDefinitionList").findall(ns + "SeatDefinition")
+        
+        # Extracting each definition and storing it into the flight data
+        for seat_info in seat_definition_list:
+            for text in seat_info.find(ns + "Description"):
+                seat_definition[seat_info.attrib["SeatDefinitionID"]] = text.text 
+            
+        flight["seat_definition"] = seat_definition
+        
+        
+        # Price data:
+        
+        alacarteoffer = root.find(ns + "ALaCarteOffer")
+        alacarteitems = alacarteoffer.findall(ns + "ALaCarteOfferItem")
+        
+        price_list = {}
+        for item in alacarteitems:
+            for price_detail in item.findall(ns + "UnitPriceDetail"):
+                # Extracting each price and its code.
+                price_code = price_detail.find(ns + "TotalAmount").find(ns + "SimpleCurrencyPrice")
+                price_list[item.attrib["OfferItemID"]] = price_code.text + " GBP"
+        
+        # Adding price list to flight data        
+        flight["price_list"] = price_list
+        
+        
+        # Seat map:
+        
+        flight["cabins"] = []
+        
+        seat_map_list = root.findall(ns + "SeatMap")
+        cabin_list = [seat_map.find(ns + "Cabin") for seat_map in seat_map_list]
+        
+        for cabin in cabin_list:
+            # Extrating Cabin Values
+            cabin_layout = cabin.find(ns + "CabinLayout")
+            cabin_values = {}
+            cabin_values["start_row"] = cabin_layout.find(ns + "Rows").find(ns + "First").text
+            cabin_values["end_row"] = cabin_layout.find(ns + "Rows").find(ns + "Last").text
+            
+            
+            cabin_values["rows"] = []
+            
+            # PD: I know it might not be the most optimal solution but it was the best workaround.
+            # Time complexity is O(n*m*k)
+            
+            # Then extrating row number and seats
+            for row in cabin.findall(ns + "Row"):
+                row_values = {}
+                row_values["number"] = row.find(ns + "Number").text
+                row_values["seat"] = []
+                
+                # For each seat we will get its values
+                for seat in row.findall(ns + "Seat"):
+                    seat_values = {}
+                    seat_values["seat_number"] = row_values["number"] + seat.find(ns + "Column").text
+                    price_ref = seat.findall(ns + "OfferItemRefs")
+                    
+                    # Getting the price reference
+                    if price_ref:
+                        seat_values["price"] = flight["price_list"][price_ref[0].text]
+                    # If there is not price reference the price will be None
+                    else:
+                        seat_values["price"] = None
+                        
+                    seat_values["seat_definition"] = {}
+                    
+                    # Finally we get each flight definition
+                    for seat_definition in seat.findall(ns + "SeatDefinitionRef"):
+                        seat_values["seat_definition"][seat_definition.text] = flight["seat_definition"][seat_definition.text]
+                        
+                    # Then we append each seat to the row
+                    row_values["seat"].append(seat_values)
+                    
+                    
+                # Finally we append each row to the cabin
+                cabin_values["rows"].append(row_values)
+                    
+            # And finally we add each cabin to the flight     
+            flight["cabins"].append(cabin_values)
+            
+        with open(filename.split(".")[0] + "_parsed.json", "w+", encoding="utf-8") as f:
+            f.write(json.dumps(flight, indent=4))
+                
+            
+                
+                
+            
+            
+        
+        
+        
+        
+        
+        
+        
+        
         
 
         
