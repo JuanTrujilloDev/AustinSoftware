@@ -1,0 +1,2939 @@
+{
+    "DepartureDateTime": "2020-11-22T15:30:00",
+    "FlightNumber": "1179",
+    "DepartureAirport": "LAS",
+    "ArrivalAirport": "IAH",
+    "Equipment": "739",
+    "Warnings": [
+        {
+            "Code": "59",
+            "Message": "ENSURE PASSENGER MEETS GOVERNMENT DESIGNATED EXIT ROW CRITERIA"
+        },
+        {
+            "Code": "450",
+            "Message": "Valid Credit Card Payment Types: ,VI,UP,MPVI,MC,AX,DS,DC,TP,JC"
+        }
+    ],
+    "Rows": [
+        {
+            "CabinType": "First",
+            "OperableInd": "true",
+            "RowNumber": "1",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "1A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "1B"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "4",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "4",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "1E"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "1F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "First",
+            "OperableInd": "true",
+            "RowNumber": "2",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "2A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "2B"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "4",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "4",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "2E"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "2F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "7",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "7A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "7B"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "7C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "true",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "7D"
+                    },
+                    "Features": "BlockedSeat_Permanent"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "true",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "7E"
+                    },
+                    "Features": "BlockedSeat_Permanent"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "true",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "7F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "8",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "true",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "8A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "true",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "8B"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "true",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "8C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "8D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "8E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "8F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "9",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "9A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "9B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "9C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "9D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "9E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "9F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "10",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "10A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "10B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "10C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "10D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "10E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "10F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "11",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "11A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "11B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "11C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "11D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "11E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "11F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "12",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "12A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "12B"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "12C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "12D"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "12E"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "12F"
+                    },
+                    "Features": "Other_"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "14",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "14A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "14B"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "14C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "14D"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "14E"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "14F"
+                    },
+                    "Features": "Other_"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "15",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "15A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "15B"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "15C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "15D"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "15E"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "15F"
+                    },
+                    "Features": "Other_"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "20",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "20A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "20B"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "20C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "20D"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "20E"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "20F"
+                    },
+                    "Features": "Other_"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "21",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "21A"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "21B"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "21C"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "21D"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "21E"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "true",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "21F"
+                    },
+                    "Features": "Overwing"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "22",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "22A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "22B"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "22C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "22D"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "22E"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "22F"
+                    },
+                    "Features": "Other_"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "23",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "23A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "23B"
+                    },
+                    "Features": "BlockedSeat_Permanent"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "23C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "23D"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "23E"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "23F"
+                    },
+                    "Features": "Other_"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "24",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "24A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "24B"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "24C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "24D"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "24E"
+                    },
+                    "Features": "Overwing"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "24F"
+                    },
+                    "Features": "Other_"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "25",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "25A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "25B"
+                    },
+                    "Features": "BlockedSeat_Permanent"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "25C"
+                    },
+                    "Features": "BlockedSeat_Permanent"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "25D"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "25E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "25F"
+                    },
+                    "Features": "Other_"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "26",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "26A"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "26B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "26C"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "26D"
+                    },
+                    "Features": "Other_"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "26E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "26F"
+                    },
+                    "Features": "Other_"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "27",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "27A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "27B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "27C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "27D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "27E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "27F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "28",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "28A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "28B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "28C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "28D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "28E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "28F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "29",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "29A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "29B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "29C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "29D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "29E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "29F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "30",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "30A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "30B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "30C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "30D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "30E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "30F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "31",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "31A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "31B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "31C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "31D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "31E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "31F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "32",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "32A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "32B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "32C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "32D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "32E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "32F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "34",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "34A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "34B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "34C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "34D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "34E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "34F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "35",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "35A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "35B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "35C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "35D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "35E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "35F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "36",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "36A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "36B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "36C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "36D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "36E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "36F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "37",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "37A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "37B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "37C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "37D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "37E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "37F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "38",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "38A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "38B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "38C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "38D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "38E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "38F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        },
+        {
+            "CabinType": "Economy",
+            "OperableInd": "true",
+            "RowNumber": "39",
+            "Seats": [
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "1",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "1",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "true",
+                        "SeatNumber": "39A"
+                    },
+                    "Features": "Window"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "2",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "2",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "true",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "39B"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "3",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "3",
+                    "PlaneSection": "Left",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "39C"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "5",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "5",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "39D"
+                    },
+                    "Features": "Aisle"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "6",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "6",
+                    "PlaneSection": "Center",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "39E"
+                    },
+                    "Features": "Center"
+                },
+                {
+                    "BlockedInd": "false",
+                    "BulkheadInd": "false",
+                    "ColumnNumber": "7",
+                    "ExitRowInd": "false",
+                    "GalleyInd": "false",
+                    "GridNumber": "7",
+                    "PlaneSection": "Right",
+                    "Summary": {
+                        "AvailableInd": "false",
+                        "InoperativeInd": "false",
+                        "OccupiedInd": "false",
+                        "SeatNumber": "39F"
+                    },
+                    "Features": "Window"
+                }
+            ]
+        }
+    ]
+}
