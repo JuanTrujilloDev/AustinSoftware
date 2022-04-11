@@ -2,7 +2,6 @@
 
 ### Intro:
 
-
 Seatmap Availability Exercise:
 
 Our goal is to parse seatmap information from XML files and create a JSON format that our customers can parse so that they can display any airline seatmap by integrating our format.
@@ -25,15 +24,13 @@ Feel free to include any other properties in your JSON format that you think are
 
 Please avoid the use of xml to json libraries/tools such as xmltodict, objectify and the like.
 
-
 ## Solution:
 
 First at all I want to thank **Austin Software, Camila Carrique and Pia Borras** for the opportunity.
 
 This exercise was one of my first times working with XML, I had only worked with csv, excel and JSON files. However I think I found a good workoround for the solution.
 
-Here is a step by step of how I decided to solve the problem.
-
+Here is a step by step on how I decided to solve the problem.
 
 1. First I took a read on both XMLs in that way I could understand how the data was stored and organized.
 2. Then I gave the posibility to pass the filename as execution arguments or reading them by user input.
@@ -43,7 +40,9 @@ Here is a step by step of how I decided to solve the problem.
 
 Note: I'm thinking also on parsing the json file into csv or creating a Django Project where I can store all the json data into a database or visualize it on a graphic interface. However due to the lack of time I'm note sure if I will be able to do this extra task.
 
-
 ## Execution Tutorial - Step by step
 
-TODO: Here I will write down a step by step tutorial on how to use the program.
+* Due to the fact that we used only native Python Modules we can execute it without installing anything.
+* To execute the program you should type down on console inside the file directory "**python seatmap_parser.py file_to_be_parsed.xml**"
+* If you don't pass any filename on execution arguments it will ask it as user input.
+* Finally it will output a json file with the filename given.
